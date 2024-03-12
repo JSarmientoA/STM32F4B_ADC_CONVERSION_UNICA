@@ -1,0 +1,7 @@
+2023-07-07 23:56:34,892 [INFO] Activator:176 - 
+
+
+2023-07-07 23:56:34,894 [INFO] Activator:177 - !SESSION log4j initialized
+2023-07-07 23:56:35,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT Webkit: Warning, You are using an old version of webkitgtk. (pre 2.4) BrowserFunction functionality will not be available
+2023-07-07 23:56:35,028 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT WebKit: error initializing DBus server, dBusServer == 0
+2023-07-07 23:56:36,887 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
